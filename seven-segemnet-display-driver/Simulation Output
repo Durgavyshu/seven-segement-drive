@@ -1,0 +1,16 @@
+Time = 0   | Input = 0 | Segment = 1000000
+Time = 10  | Input = 1 | Segment = 1111001
+Time = 20  | Input = 2 | Segment = 0100100
+Time = 30  | Input = 3 | Segment = 0110000
+Time = 40  | Input = 4 | Segment = 0011001
+Time = 50  | Input = 5 | Segment = 0010010
+Time = 60  | Input = 6 | Segment = 0000010
+Time = 70  | Input = 7 | Segment = 1111000
+Time = 80  | Input = 8 | Segment = 0000000
+Time = 90  | Input = 9 | Segment = 0010000
+Time = 100 | Input = A | Segment = 0001000
+Time = 110 | Input = B | Segment = 0000011
+Time = 120 | Input = C | Segment = 1000110
+Time = 130 | Input = D | Segment = 0100001
+Time = 140 | Input = E | Segment = 0000110
+Time = 150 | Input = F | Segment = 0001110
